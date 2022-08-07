@@ -39,15 +39,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{A3EF8B29-423D-4A98-83AE-9390B3234057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_GetAndSet", "Prac_GetAndSet\Prac_GetAndSet.csproj", "{9D751052-EF7B-4B63-BCF8-526350D7BA91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_GetAndSet", "Prac_GetAndSet\Prac_GetAndSet.csproj", "{9D751052-EF7B-4B63-BCF8-526350D7BA91}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{9621C1DB-9E65-4389-AD65-0921BB26608D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_Interfaces", "Prac_Interfaces\Prac_Interfaces.csproj", "{EBD57404-B0C7-40A9-9F10-328B19E577EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_Interfaces", "Prac_Interfaces\Prac_Interfaces.csproj", "{EBD57404-B0C7-40A9-9F10-328B19E577EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_InterfacesDemo", "Prac_InterfacesDemo\Prac_InterfacesDemo.csproj", "{A3CA0B79-2BC8-4E84-87EB-8523BD6FE40B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_InterfacesDemo", "Prac_InterfacesDemo\Prac_InterfacesDemo.csproj", "{A3CA0B79-2BC8-4E84-87EB-8523BD6FE40B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_Inheritance", "Prac_Inheritance\Prac_Inheritance.csproj", "{317DFF5F-6EEA-40F5-8843-DBBCC47464F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_Inheritance", "Prac_Inheritance\Prac_Inheritance.csproj", "{317DFF5F-6EEA-40F5-8843-DBBCC47464F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_Interfaces2", "Prac_Interfaces2\Prac_Interfaces2.csproj", "{05D08ADB-8170-4575-B519-2E4E02AC39A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prac_InterfaceAbstractDemo", "Prac_InterfaceAbstractDemo\Prac_InterfaceAbstractDemo.csproj", "{F5B58283-D0F1-4BD7-B30C-44BF9C3158C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{1F8A12EB-6B4A-4745-BA13-347524C0CD97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +153,18 @@ Global
 		{317DFF5F-6EEA-40F5-8843-DBBCC47464F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{317DFF5F-6EEA-40F5-8843-DBBCC47464F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{317DFF5F-6EEA-40F5-8843-DBBCC47464F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D08ADB-8170-4575-B519-2E4E02AC39A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D08ADB-8170-4575-B519-2E4E02AC39A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D08ADB-8170-4575-B519-2E4E02AC39A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D08ADB-8170-4575-B519-2E4E02AC39A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B58283-D0F1-4BD7-B30C-44BF9C3158C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B58283-D0F1-4BD7-B30C-44BF9C3158C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B58283-D0F1-4BD7-B30C-44BF9C3158C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B58283-D0F1-4BD7-B30C-44BF9C3158C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8A12EB-6B4A-4745-BA13-347524C0CD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8A12EB-6B4A-4745-BA13-347524C0CD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8A12EB-6B4A-4745-BA13-347524C0CD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8A12EB-6B4A-4745-BA13-347524C0CD97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
